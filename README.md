@@ -1,4 +1,4 @@
-Personal_Note IN University
+Studying_Note IN University
 
 自用学习笔记合集:
 
